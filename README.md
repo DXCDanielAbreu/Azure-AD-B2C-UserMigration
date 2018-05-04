@@ -76,6 +76,6 @@ Follow the instructions [Step 1: Use Azure AD Graph API to migrate users](https:
 1. Grant administrative permission to your application
 1. (Optional) Environment cleanup
 
-## Disclaimer
+## Disclaimer and terms of service
 The migration application is developed and managed by the open-source community in GitHub. The application is not part of Azure AD B2C product and it's not supported under any Microsoft standard support program or service. 
 This migration app is provided AS IS without warranty of any kind. For any issue, visit the [GitHub repository](https://github.com/yoelhor/Azure-AD-B2C-UserMigration).
